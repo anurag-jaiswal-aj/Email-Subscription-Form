@@ -1,4 +1,5 @@
-Email Subscription Form Project
+Email Subscription Form Project:
+
 Welcome to the Email Subscription Form Project for Day 18 of the #30Days30Projects challenge. Stay connected and receive updates seamlessly with this Email Subscription Form crafted using HTML, CSS, and JavaScript.
 
 Features:
